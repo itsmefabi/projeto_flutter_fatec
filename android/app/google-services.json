@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15453361537",
+    "project_id": "projeto-flutter-fatec-d2c5a",
+    "storage_bucket": "projeto-flutter-fatec-d2c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15453361537:android:57e9fd06e115075e034480",
+        "android_client_info": {
+          "package_name": "com.example.projeto_flutter_fatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15453361537-q4kmtpd620v1js1j4k59hj2aqcbn42u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIjjtyYMZhuyXScDhsiUMy3_nAmh5a1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15453361537-q4kmtpd620v1js1j4k59hj2aqcbn42u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
